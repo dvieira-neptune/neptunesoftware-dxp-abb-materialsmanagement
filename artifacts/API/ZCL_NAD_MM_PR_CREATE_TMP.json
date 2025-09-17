@@ -2,15 +2,7 @@
 	"id": "0a0be628-0788-f011-b3ce-000d3ab3697b",
 	"createdAt": "2025-09-02T14:14:39.100Z",
 	"createdBy": "daniel.vieira@neptune-software.com",
-	"auth": [
-		{
-			"role": "DEF",
-			"apiAuth": "40BA4A0F-7664-EF11-BDFD-000D3ADAF0FF",
-			"authName": "S4IDES - GTM",
-			"authDesc": "",
-			"id": "87562174-0aae-45a4-8c23-f84fc254e47c"
-		}
-	],
+	"auth": [],
 	"endpoints": [],
 	"paths": [
 		{
@@ -18185,7 +18177,7 @@
 	"documentation": [],
 	"name": "ZCL_NAD_MM_PR_CREATE_TMP",
 	"endpoint": "https://Your_SAP_Edition_URL.neptune-software.com/neptune/api/dynamic/zcl_nad_mm_pr_create_tmp",
-	"ver": "25.09.17.0946",
+	"ver": "25.09.17.0957",
 	"version": "1.0",
 	"description": null,
 	"mediaType": null,
