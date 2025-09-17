@@ -5,7 +5,7 @@ Materials Management
 # How to connect the app to SAP via Neptune DXP SAP Edition 
 
 # Step 1. Copying & Pasting the ABAP code included in the app repository 
-
+In this example you'll find 3 files, each containing ABAP code needed to create the custom Z interfaces and data provider class.
 Start by copying the abap code for each of the “ZIF” interfaces to the transaction code SE24 in SAP. 
 
 Then, copy the abap code of the “ZCL” data provider class to the transaction code SE24 in SAP. This is how the imported class should look like: 
